@@ -8,15 +8,14 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 
 setup(
     name='PyCoWIN-Kunal',
-    version='0.0.2',
+    version='1.0.0',
     description='Python wrapper for CoWin API developed by Kunal Kumar Sahoo',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url=' https://github.com/PyCoWIN/',
+    url=' https://github.com/Kunal-Kumar-Sahoo/PyCowinAPI/',
     author='Kunal Kumar Sahoo',
     author_email='kunal.sahoo2003@gmail.com',
     classifiers=[
-        'Development Status :: 3 - Alpha',
 
         'Environment :: Console',
 
@@ -36,11 +35,11 @@ setup(
     install_requires=[
         'fake-useragent==0.1.11',
         'pytest==6.2.3',
-        'requests==2.25.1'
+        'requests==2.25.1',
         'typing==3.7.4.3'
     ],
     project_urls={  # Optional
-        'Bug Reports': 'https://github.com/backtrackbaba/cowin/issues',
-        'Source': 'https://github.com/backtrackbaba/cowin',
+        'Bug Reports': 'https://github.com/Kunal-Kumar-Sahoo/PyCowinAPI/cowin/issues',
+        'Source': 'https://github.com/Kunal-Kumar-Sahoo/PyCowinAPI/cowin',
     },
 )
