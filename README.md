@@ -21,7 +21,7 @@ print(states)
 
 # Install
 
-`pip install PyCoWIN-Kunal`
+`pip install CoWIN-API-by-Kunal-Kumar-Sahoo`
 
 # Usage
 
