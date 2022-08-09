@@ -6,7 +6,7 @@ for the vaccination drive by booking an appointment at the nearby vaccination ce
 
 The process to look-up for available slots to take the vaccine is tedious as you need to log in to the portal every time
 
-This wrapper is meant to enable folks to build their own versions of a system to lookup for vaccine availablity either
+This wrapper is meant to enable folks to build their own versions of a system to lookup for vaccine availability either
 in a district or in a particular pin code.
 
 Example:
