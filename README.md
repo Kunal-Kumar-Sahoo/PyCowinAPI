@@ -1,5 +1,7 @@
 # Cowin Tracker
-[![Downloads](https://pepy.tech/badge/cowin-api-by-kunal-kumar-sahoo)](https://pepy.tech/project/cowin-api-by-kunal-kumar-sahoo)
+
+![Downloads](https://static.pepy.tech/badge/cowin-api-by-kunal-kumar-sahoo)
+
 
 Python API wrapper for CoWin, India's digital platform launched by the government to help citizens register themselves
 for the vaccination drive by booking an appointment at the nearby vaccination centres
